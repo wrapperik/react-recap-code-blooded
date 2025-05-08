@@ -1,6 +1,19 @@
 import React from "react";
+import FeatureCard from '../components/ui/FeatureCard';
 
 const home = () => {
+
+  const features = [
+    'Reduce Costs',
+    'Increase Efficiency',
+    'No Rigid Contracts',
+    'Fluent Communication',
+    'Certified Talent',
+    'Office-Based Professionals',
+    'Dedicated Workforce',
+    'Performance-Driven Approach',
+  ];
+
   return (
     <section className="min-h-screen flex items-center pt-20 pb-16 mt-10 overflow-hidden relative">
       <div className="container mx-auto px-4 relative z-10">
@@ -26,12 +39,14 @@ const home = () => {
         </div>
       </div>
       
-      {/* Background elements */}
       <div className="absolute top-0 left-0 w-full h-full overflow-hidden -z-10">
         <div className="w-full h-full bg-art-darker"></div>
         <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(ellipse_at_center,rgba(155,135,245,0.15)_0%,rgba(10,10,10,0)_70%)]"></div>
         <div className="absolute bottom-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-art-purple/30 to-transparent"></div>
       </div>
+      <div>
+      <FeatureCard title="Our Features" features={features} />
+    </div>
     </section>
   );
 };
