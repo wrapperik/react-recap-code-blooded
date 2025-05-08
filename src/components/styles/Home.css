@@ -17,8 +17,8 @@
 }
 
 .hero {
-    padding-left: 100px;
-    padding-right: 100px;
+    max-width: 1500px;
+    margin: 0 auto;
     margin-top: 70px;
   }
   

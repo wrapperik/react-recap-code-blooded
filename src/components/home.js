@@ -54,8 +54,9 @@ optimise, and thrive. Whether you need skilled virtual staff, process outsourcin
 consulting, we provide tailored solutions that drive results.
             </p>
             <div>
-              <button className="btn1">CONTACT US</button>
-
+            <a href="/contact">
+            <button className="btn1">CONTACT US</button>
+            </a>
             </div>
             
           </div>
