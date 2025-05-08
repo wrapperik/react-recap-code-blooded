@@ -1,0 +1,37 @@
+
+.btn1{
+    width: 150px;
+    height: 50px;
+    border-style: none;
+    background-color: #34A853;
+    color: white;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    font-family: sans-serif;
+}
+
+.intro {
+    margin-right: 50%;
+}
+
+.hero {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 70px;
+  }
+  
+.hero h1{
+    font-size: 50px;
+    font-family: sans-serif;
+  }
+  
+.hero h3{
+    margin-bottom: 20px;
+    font-family: sans-serif;
+  }
+
+.hero p{
+    font-family: sans-serif;
+}
