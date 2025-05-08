@@ -38,7 +38,7 @@ npm run build
 npm test
 ```
 
-Reflection
+# Reflection
 This project was a collaborative effort to build a responsive and user-friendly web application. Each team member contributed to different aspects of the project, including:
 
 Frontend Development: Designing and implementing the UI components using React.
@@ -46,13 +46,13 @@ Routing: Setting up navigation with React Router.
 Styling: Creating responsive and visually appealing styles using CSS and Bootstrap.
 Testing: Writing and running tests to ensure the application works as expected.
 
-Challenges
+## Challenges
 
 Integrating React Router for seamless navigation.
 Ensuring the application is fully responsive across devices.
 Managing state and props effectively for reusable components.
 
-Learnings
+## Learnings
 
 Improved understanding of React component structure and state management.
 Gained experience with CSS Grid and Flexbox for responsive design.
