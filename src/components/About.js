@@ -11,10 +11,10 @@ function About() {
         <h2>Who We Are</h2>
         <p>
         Consult Park is more than just an outsourcing company—we’re your growth partner. Our
-mission is to bridge businesses with skilled professionals, helping them scale faster, work
-smarter, and achieve more.
-With a network of highly trained professionals, cutting-edge tools, and a client-first approach,
-we deliver solutions that enhance productivity, efficiency, and profitability.
+        mission is to bridge businesses with skilled professionals, helping them scale faster, work
+        smarter, and achieve more.
+        With a network of highly trained professionals, cutting-edge tools, and a client-first approach,
+        we deliver solutions that enhance productivity, efficiency, and profitability.
         </p>
       </section>
 
@@ -22,13 +22,13 @@ we deliver solutions that enhance productivity, efficiency, and profitability.
       <section className="about-section">
         <h2>Mission & Vision</h2>
         <p>Our mission is simple: Empower businesses with seamless outsourcing solutions that
-drive success.
-We envision a world where businesses of all sizes can access high-quality, cost-effective talent
-without the constraints of location or infrastructure.</p>
+          drive success.
+          We envision a world where businesses of all sizes can access high-quality, cost-effective talent
+          without the constraints of location or infrastructure.</p>
         <p>
           <strong>Mission:</strong> Empower businesses globally by connecting them with skilled virtual teams, driving
-efficiency, collaboration, and growth, while creating impactful career opportunities for
-professionals
+          efficiency, collaboration, and growth, while creating impactful career opportunities for
+          professionals
         </p>
         <p>
           <strong>Vision:</strong> To become the premier outsourcing partner, transforming global workforce solutions and
