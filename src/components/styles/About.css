@@ -1,0 +1,44 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    font-family: sans-serif;
+  }
+  .container h1 {
+    font-size: 60px;
+    margin-bottom: 40px;
+  }
+  
+  .about-section {
+    margin-bottom: 32px;
+  }
+  
+  .values-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+  }
+  
+  .value-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .value-icon {
+    font-size: 2rem;
+    margin-bottom: 8px;
+  }
+  
+  .value-card h3 {
+    margin: 8px 0;
+    font-size: 1.25rem;
+  }
+  
+  .value-card p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+

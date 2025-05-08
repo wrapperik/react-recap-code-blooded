@@ -1,12 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Logo from '../Consult-Park-Logo-Full.png';
+import '../components/styles/Navbar.css'; 
 
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg">
       <div className="container">
-        <Link className="navbar-brand" to="/">Consult Park</Link>
+        <Link className="navbar-brand" to="/"><img src={Logo} width={200}></img></Link>
         <button
           className="navbar-toggler"
           type="button"
