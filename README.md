@@ -3,10 +3,9 @@
 This project was created to showcase the capabilities of Consult Park, a strategic outsourcing partner for remote excellence. It includes features like a responsive homepage, services, and contact sections.
 
 ## Group Members
-- **Member 1**: [Name]
-- **Member 2**: [Name]
-- **Member 3**: [Name]
-- **Member 4**: [Name]
+- **David Golding**: [200238]
+- **Rikus Pretorius**: [241044]
+- **Victor du Preez**: [241250]
 
 ## Setup Instructions
 
@@ -38,7 +37,7 @@ npm run build
 npm test
 ```
 
-Reflection
+# Reflection
 This project was a collaborative effort to build a responsive and user-friendly web application. Each team member contributed to different aspects of the project, including:
 
 Frontend Development: Designing and implementing the UI components using React.
@@ -46,13 +45,13 @@ Routing: Setting up navigation with React Router.
 Styling: Creating responsive and visually appealing styles using CSS and Bootstrap.
 Testing: Writing and running tests to ensure the application works as expected.
 
-Challenges
+## Challenges
 
 Integrating React Router for seamless navigation.
 Ensuring the application is fully responsive across devices.
 Managing state and props effectively for reusable components.
 
-Learnings
+## Learnings
 
 Improved understanding of React component structure and state management.
 Gained experience with CSS Grid and Flexbox for responsive design.
