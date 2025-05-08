@@ -5,6 +5,7 @@ import About from './components/About';
 import Services from './components/services';
 import Outsourcing from './components/Outsourcing';
 import Contact from './components/Contact';
+import Home from './components/home';
 import './App.css';
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/services" element={<Services />} />
         <Route path="/outsourcing" element={<Outsourcing />} />
