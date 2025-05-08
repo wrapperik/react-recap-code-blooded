@@ -3,10 +3,9 @@
 This project was created to showcase the capabilities of Consult Park, a strategic outsourcing partner for remote excellence. It includes features like a responsive homepage, services, and contact sections.
 
 ## Group Members
-- **Member 1**: [Name]
-- **Member 2**: [Name]
-- **Member 3**: [Name]
-- **Member 4**: [Name]
+- **David Golding**: [200238]
+- **Rikus Pretorius**: [241044]
+- **Victor du Preez**: [241250]
 
 ## Setup Instructions
 
