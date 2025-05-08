@@ -4,6 +4,10 @@
     padding: 16px;
     font-family: sans-serif;
   }
+  .container h1 {
+    font-size: 60px;
+    margin-bottom: 40px;
+  }
   
   .about-section {
     margin-bottom: 32px;
@@ -37,3 +41,4 @@
     font-size: 0.9rem;
     color: #555;
   }
+
