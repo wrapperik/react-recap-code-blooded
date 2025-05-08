@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles/outsourcing.css'; // Assuming you have a CSS file for styling
 
 function Outsourcing() {
   return (
