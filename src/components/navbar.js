@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Logo from '../Consult-Park-Logo-Full.png';
 import '../components/styles/Navbar.css'; 
 
+
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">
